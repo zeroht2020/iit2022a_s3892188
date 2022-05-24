@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table style="background-color: palevioletred;">
+        <tr>
+            <td>
+                <h1 style="color: white;">
+                    Girl Develop <It>
+                    
+                </h1>
+                <h4 style="color: white;">
+                     don't be shy. develop it.
+                </h4>
+            </td>
+        </tr>
+    </table>
+    <h1>
+        <b>About</b>
+    </h1>
+    <p>
+        It can be intimidating for women to learn and ask questions when they are in an
+        <b>extreme minority</b>. While open and welcoming, today's budding developer commnty
+        is up o <b>91% male</b>. If we can empower more females with the confidence
+        in their technological capabilities <i>we can begin to change this landscape.</i>
+    </p>
+    <h2><b>Our Locations</b></h2>
+    <li style="margin-left: 30px;">USA</li>
+    <li style="margin-left: 60px;"> <a href="#">NewYork</a> </li>
+    <li style="margin-left: 60px;"> <a href="#">Columbus</a> </li>
+    <li style="margin-left: 60px;"> <a href="#">Austin</a> </li>
+    <li style="margin-left: 60px;"> <a href="#">Philly</a> </li>
+    <li style="margin-left: 30px;">World</li>
+    <li style="margin-left: 60px;"> <a href="#">Ottawa</a> </li>
+    <li style="margin-left: 60px;"> <a href="#">Sydney</a> </li>
+    <H1><b>Upcoming classes</b></H1>
+    <table border="1">
+        <tr>
+            <th>Location</th>
+            <th>Topic</th>
+        </tr>
+        <tr>
+            <td>
+                New York
+            </td>
+            <td> JavaScript & jQuery</td>
+        </tr>
+        <tr>
+            <td>San Francisco</td>
+            <td>HTML & CSS</td>
+        </tr>
+
+    </table>
+    <H1><b>Sign Up!</b></H1>
+    <label>Name:</label><input type="text" name="" id="">
+    <br>
+    <label>Email:</label><input type="text" name="" id="">
+    <br>
+    <label>Location:</label>
+    <select name="" id="">
+        <option> San Francisco</option>
+        <option> New York</option>
+    </select>
+    <table>
+        <tr>
+            <p>Gender:</p>
+            <label>Feamale<input type="radio"> </label>
+            <label>Male <input type="radio"></label>            
+        </tr>
+    </table>
+    <p>Experience:</p>
+    <textarea name="" id="" cols="20" rows="5"></textarea>
+    <br>
+    <button>Sign up</button>
+    <br>
+    <br>
+    <a href="#">Twitter</a>
+    <label>|</label>
+    <a href="#">Facebook</a>
+    <label>|</label>
+    <a href="#">Flickr</a>
+</body>
+</html>
